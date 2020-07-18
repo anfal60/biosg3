@@ -1,0 +1,4 @@
+Rencana Pengembangan BIOS G3:
+a. node js
+b. database postgre/mysql
+c. database mongodb
